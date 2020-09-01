@@ -78,8 +78,7 @@ def adding_matz
         :languages => ["C"]
       }
     }
-    programmer_hash = {:yukihiro_matsumoto}, {:grace_hopper}, {:alan_kay}, {:dennis_ritchie}
-    return programmer_hash
+
 
   end
 # add the following information to the top level of programmer_hash
