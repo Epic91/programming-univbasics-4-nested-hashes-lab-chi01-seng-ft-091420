@@ -83,6 +83,7 @@ mew_hash = {
   :known_for "Ruby",
   :languages => ["LISP", "C"]
 }
+new_hash
   end
 # add the following information to the top level of programmer_hash
 # :yukihiro_matsumoto => {
