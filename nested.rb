@@ -78,8 +78,8 @@ def adding_matz
         :languages => ["C"]
       }
     }
-    programmer_hash = [yukihiro_matsumoto:] => {:known_for "Ruby"}
-    puts programmer_hash
+mew_hash = {
+  :yukihiro_matsumoto => :known_for "Ruby", :languages => ["LISP", "C"]}
   end
 # add the following information to the top level of programmer_hash
 # :yukihiro_matsumoto => {
